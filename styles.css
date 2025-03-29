@@ -5,20 +5,28 @@
 .btn-wrapper{
     margin-left: auto;
     margin-right: 224px;
+    margin-bottom: 15px;
 }
 .home {
-    padding-top: 2px;
-    padding-bottom: 2px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 34px;
+    padding-right: 34px;
+    padding-top: none;
+    padding-bottom: none;
     color: white;
     background: #222222;
     border: 1px solid #222222;
     border-radius: 15px;
-    margin-left: 78px;
+    margin-left: 39px;
+}
+.contact {
+    margin-right: 34px;
 }
 
+.projects {
+    margin-left: 34px;
+}
 .line {
+    margin-top: 15px;
     margin-left: 0;
     width: 1920px;
     border: 1px solid #222222; 
@@ -31,4 +39,8 @@ img {
     width: 832px;
     margin-right: 4px;
     margin-left: auto;
+}
+
+h1 {
+    margin-left: 15px;
 }
