@@ -1,4 +1,8 @@
 .Header {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
     display: flex;
 }
 
@@ -43,4 +47,11 @@ img {
 
 h1 {
     margin-left: 15px;
+}
+
+.About {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
 }
