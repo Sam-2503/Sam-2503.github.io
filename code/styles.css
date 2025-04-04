@@ -5,12 +5,15 @@
     display: flex;
 }
 
+.body {
+    background-color: #222222;
+}
 .btn-wrapper{
     margin-left: auto;
     margin-right: 224px;
     margin-bottom: 15px;
 }
-.home {
+.btn-right{
     padding-left: 34px;
     padding-right: 34px;
     padding-top: none;
@@ -21,11 +24,11 @@
     border-radius: 15px;
     margin-left: 39px;
 }
-.contact {
+.btn-left {
     margin-right: 34px;
 }
 
-.projects {
+.btn-center {
     margin-left: 34px;
 }
 .line {
@@ -35,7 +38,7 @@
     border: 1px solid #222222; 
 }
 
-img {
+.samphoto {
     display: block;
     border: 1px solid black;
     height: 425px;
@@ -48,8 +51,23 @@ h1 {
     margin-left: 15px;
 }
 
-.About {
+.Content {
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
+}
+
+.icons {
+    width: 32px;
+    height: 32px;
+    margin-right: 48px;
+    margin-bottom: 38px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.link {
+    padding: none;
 }
