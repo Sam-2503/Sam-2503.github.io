@@ -9,32 +9,35 @@
     background-color: #222222;
 }
 .btn-wrapper{
+    color: #222222;
+    display: flex;
     margin-left: auto;
-    margin-right: 224px;
-    margin-bottom: 15px;
+    margin-right: 24px;
 }
 .btn-right{
-    padding-left: 34px;
-    padding-right: 34px;
-    padding-top: none;
-    padding-bottom: none;
+    padding: 15px;
     color: white;
     background: #222222;
     border: 1px solid #222222;
     border-radius: 15px;
-    margin-left: 39px;
+    margin-left: 34px;
+    margin-bottom: 15px;
+}
+a {
+    text-decoration: none;
 }
 .btn-left {
+    color: #222222;
+    margin-top: 15px;
     margin-right: 34px;
 }
 
 .btn-center {
-    margin-left: 34px;
+    color: #222222;
+    margin-top: 15px;
 }
 .line {
-    margin-top: 15px;
-    margin-left: 0;
-    width: 1920px;
+    width: auto;
     border: 1px solid #222222; 
 }
 
@@ -70,4 +73,5 @@ ul {
 
 .link {
     padding: none;
+    text-decoration: none;
 }
