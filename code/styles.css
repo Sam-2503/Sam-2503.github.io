@@ -60,18 +60,18 @@ h1 {
     font-style: normal;
 }
 
-.icons {
-    width: 32px;
-    height: 32px;
-    margin-right: 48px;
+.social {
+    display: flex;
+    align-items: center;;
     margin-bottom: 38px;
 }
 
-ul {
-    list-style-type: none;
+.icons {
+    width: 32px;
+    height: 32px;
+    margin-right: 25px;
 }
 
 .link {
-    padding: none;
-    text-decoration: none;
+    margin-left: 5px;
 }
