@@ -11,11 +11,15 @@
 .btn-wrapper{
     color: #222222;
     display: flex;
+    align-items: center;
     margin-left: auto;
     margin-right: 24px;
 }
 .btn-right{
-    padding: 15px;
+    padding-right: 18px;
+    padding-left: 18px;
+    padding-top: 12px;
+    padding-bottom: 12px;
     color: white;
     background: #222222;
     border: 1px solid #222222;
