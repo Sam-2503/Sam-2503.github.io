@@ -75,6 +75,26 @@ a {
     border: 1px solid #222222; 
 }
 
+.btn-right {
+    padding: 5px;
+    color: #222222;
+    margin-right: 29px;
+    margin-top: 15px;
+    position: relative;
+}
+.btn-right::after {
+    content: " ";
+    background-color: black;
+    position: absolute;
+    height: 2px;
+    width: 0;
+    left: 0;
+    bottom: 0px;
+    transition: all 0.3s ease-in-out;
+}
+.btn-right:hover::after {
+    width: 100%;
+}
 .Content {
     margin-left: 20px;
     display: flex;
