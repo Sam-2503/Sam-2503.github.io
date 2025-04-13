@@ -10,9 +10,11 @@
     color: #222222;
     display: flex;
     align-items: center;
+    justify-content: space-between;
     margin-left: auto;
     margin-right: 24px;
 }
+
 .btn-current{
     padding-right: 18px;
     padding-left: 18px;
@@ -22,18 +24,13 @@
     background: #222222;
     border: 1px solid #222222;
     border-radius: 15px;
-    margin-bottom: 15px;
 }
-a {
-    color: inherit;
-    text-decoration: none;
-}
+
 .btn-left {
     padding: 5px;
     color: #222222;
-    margin-top: 15px;
-    margin-right: 29px;
     position: relative;
+    margin: 0 20px;
 }
 
 .btn-left::after {
@@ -53,9 +50,8 @@ a {
 .btn-center {
     padding: 5px;
     color: #222222;
-    margin-right: 29px;
-    margin-top: 15px;
     position: relative;
+    margin: 0 20px;
 }
 .btn-center::after {
     content: " ";
@@ -70,18 +66,14 @@ a {
 .btn-center:hover::after {
     width: 100%;
 }
-.line {
-    width: auto;
-    border: 1px solid #222222; 
-}
 
 .btn-right {
     padding: 5px;
     color: #222222;
-    margin-right: 29px;
-    margin-top: 15px;
     position: relative;
+    margin: 0 20px;
 }
+
 .btn-right::after {
     content: " ";
     background-color: black;
@@ -92,9 +84,16 @@ a {
     bottom: 0px;
     transition: all 0.3s ease-in-out;
 }
+
 .btn-right:hover::after {
     width: 100%;
 }
+
+.line {
+    width: auto;
+    border: 1px solid #222222; 
+}
+
 .Content {
     margin-left: 20px;
     display: flex;
@@ -124,6 +123,15 @@ a {
     margin-right: 25px;
 }
 
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
 .link {
     margin-left: 5px;
+}
+
+.about {
+    width: 500px;
 }
