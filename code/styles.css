@@ -1,4 +1,4 @@
-.Header {
+nav {
     margin-left: 20px;
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
@@ -15,25 +15,15 @@
     margin-right: 24px;
 }
 
-.btn-current{
-    padding-right: 18px;
-    padding-left: 18px;
-    padding-top: 12px;
-    padding-bottom: 12px;
-    color: white;
-    background: #222222;
-    border: 1px solid #222222;
-    border-radius: 15px;
-}
 
-.btn-left {
+.btn {
     padding: 5px;
     color: #222222;
     position: relative;
     margin: 0 20px;
 }
 
-.btn-left::after {
+.btn::after {
     content: " ";
     background-color: black;
     position: absolute;
@@ -43,29 +33,10 @@
     bottom: 0px;
     transition: all 0.3s ease-in-out;
 }
-.btn-left:hover::after {
+.btn:hover::after {
     width: 100%;
 }
 
-.btn-center {
-    padding: 5px;
-    color: #222222;
-    position: relative;
-    margin: 0 20px;
-}
-.btn-center::after {
-    content: " ";
-    background-color: black;
-    position: absolute;
-    height: 2px;
-    width: 0;
-    left: 0;
-    bottom: 0px;
-    transition: all 0.3s ease-in-out;
-}
-.btn-center:hover::after {
-    width: 100%;
-}
 
 .btn-right {
     padding: 5px;
