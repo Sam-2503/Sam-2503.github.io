@@ -9,6 +9,7 @@ nav {
     font-optical-sizing: auto;
     font-style: normal;
     display: flex;
+    z-index: 100;
 }
 
 .btn-wrapper{
@@ -26,6 +27,7 @@ nav {
     color: #222222;
     position: relative;
     margin: 0 20px;
+    cursor: pointer;
 }
 
 .btn::after {
@@ -71,6 +73,7 @@ nav {
     top: 60px;
     left: 0;
     border: 1px solid #222222; 
+    z-index: 100;
 }
 
 .Content {
@@ -117,4 +120,55 @@ a {
 
 .about {
     width: 500px;
+}
+
+.social {
+    display: flex;
+    align-items: center;
+}
+
+.social.hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    background-color: #f0f0f0;
+}
+
+.icons {
+    width: 32px;
+    height: 32px;
+    margin-right: 25px;
+    transition: transform 0.3s ease;
+}
+
+.social:hover .icons {
+    transform: scale(1.2);
+}
+
+.social:hover .link {
+    color: #000;
+    text-decoration: underline;
+}
+
+.social.insta:hover {
+    background-color: rgba(225, 48, 108, 0.1);
+}
+
+.social.fb:hover{
+    background-color: rgba(66, 103, 178, 0.1);
+}
+
+.social.x:hover{
+    background-color: rgba(29, 161, 242, 0.1);
+}
+
+.social.linkedin:hover{
+    background-color: rgba(0, 119, 181, 0.1);
+}
+
+.social.dc:hover{
+    background-color: rgba(114, 137, 218, 0.1);
+}
+
+.social.github:hover{
+    background-color: rgba(51, 51, 51, 0.1);
 }
