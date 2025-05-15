@@ -83,7 +83,7 @@ nav {
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
-    min-height: 100vh; /* Make each section take full viewport height */
+    min-height: 70vh; /* Make each section take full viewport height */
     align-items: flex-start;
     padding-top: 20px;
 }
@@ -153,14 +153,6 @@ a {
     background-color: rgba(225, 48, 108, 0.1);
 }
 
-.social.fb:hover{
-    background-color: rgba(66, 103, 178, 0.1);
-}
-
-.social.x:hover{
-    background-color: rgba(29, 161, 242, 0.1);
-}
-
 .social.linkedin:hover{
     background-color: rgba(0, 119, 181, 0.1);
 }
@@ -171,4 +163,8 @@ a {
 
 .social.github:hover{
     background-color: rgba(51, 51, 51, 0.1);
+}
+
+.project-table {
+    display: flex;
 }
