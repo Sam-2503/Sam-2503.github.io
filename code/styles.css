@@ -1,5 +1,9 @@
 nav {
     position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
     margin-left: 20px;
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
@@ -62,16 +66,23 @@ nav {
 }
 
 .line {
-    width: auto;
+    position: fixed;
+    width: 100%;
+    top: 60px;
+    left: 0;
     border: 1px solid #222222; 
 }
 
 .Content {
+    margin-top: 70px;
     margin-left: 20px;
     display: flex;
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
+    min-height: 100vh; /* Make each section take full viewport height */
+    align-items: flex-start;
+    padding-top: 20px;
 }
 
 .samphoto {
