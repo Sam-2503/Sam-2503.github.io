@@ -171,13 +171,26 @@ a {
     justify-content: space-between;
     height: 50px;
     width: 500px;
+    margin-top: 50px;
     margin-left: 400px;
     margin-right: auto;
 }
 
 .divider {
-    height: 60px;
+    height: 100px;
     border: 1px solid black;
     margin-left: 5px;
     margin-right: 5px;
+}
+
+.card {
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #222222;
+    border-radius: 5px;
+}
+
+.icons:hover {
+    transform: scale(1.2);
 }
