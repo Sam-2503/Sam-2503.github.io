@@ -83,7 +83,7 @@ nav {
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
-    min-height: 70vh; /* Make each section take full viewport height */
+    min-height: 70vh;
     align-items: flex-start;
     padding-top: 20px;
 }
@@ -167,4 +167,17 @@ a {
 
 .project-table {
     display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+    width: 500px;
+    margin-left: 400px;
+    margin-right: auto;
+}
+
+.divider {
+    height: 60px;
+    border: 1px solid black;
+    margin-left: 5px;
+    margin-right: 5px;
 }
