@@ -25,7 +25,9 @@ document.addEventListener("DOMContentLoaded", function() {
     let projectsButton = document.querySelector(".projectsButton");
     let projectsContent = document.querySelector(".projects");
     projectsButton.onclick = function() {
-        scroller(projectsContent);
+        scroller(projectsContent);;
+    
     }
 
-});
+
+})
