@@ -7,6 +7,9 @@
         <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
         <title>Samprad's Portfolio</title>
         <link rel = "icon" type = "image/x-icon" href = "../icons/ghost.png">
+        <meta name = "description" content = "Samprad's personal portfolio showcasing front-end development skills">
+        <meta name = "keywords" content = "Samprad, portfolio, front-end developer, HTML, CSS, JavaScript">
+        <meta name = "author" content = "Samprad">
         <meta charset="UTF-8">
         <meta name="google" content="notranslate">
         <meta http-equiv="Content-Language" content="en">
@@ -26,7 +29,7 @@
 
         <div class = "line"></div>
 
-        <div class = "Content home">
+        <section class = "Content home">
             <div>
                 <h1><u>About Me</u></h1>
                 <div class = "about"> 
@@ -39,9 +42,9 @@
 
             <img src = "../icons/me.png" alt = "A stickman who's supposed to be Sam" class = "samphoto">
 
-        </div>
+        </section>
 
-        <div class = "Content contact">
+        <section class = "Content contact">
             <div>
                 <h1><u>Connect with Me</u></h1>
 
@@ -69,39 +72,22 @@
                 </ul>
             </div>
             
-        </div>
+        </section>
 
-        <div class = "Content projects">
+        <section class = "Content projects">
 
             <div>
                 <h1><u>Projects</u></h1>
                 <p>This is a collection of the Projects that I am currently working on or have completed so far</p>
-                <div class = "project-table">
-                    <div class = "table-completed">
-                        <h4><u>Projects Completed</u></h4>
-
-                        <div class = "card portfolio">
-                            <h5>My Portfolio</h5>
-                            <a href = "https://github.com/my-portfolio" target = "_blank"><img src = "../icons/github.png" class = "icons github"></a>
-                        </div>
-
-                    </div>
-
-                    <div class = "divider"></div>
-
-                    <div class = "table-working">
-                        <h4><u>Currently Working on</u></h4>
-
-                        <div class = "card clouter">
-                            <h5>Clouter</h5>
-                            <a href = "https://github.com/clouter" target = "_blank"><img src = "../icons/github.png" class = "icons github"></a>
-                        </div>
-
-                    </div>
+                <div class = "project-card">
+                    <img src = "./img/brave_screenshot.png" alt = "Samazon screenshot">
+                   <p>A portfolio site built with HTML, CSS and basic JS for showcasing my front-end development skills and projects</p>
+                   <div class = "project-links">
+                        <a href = "https://github.com/Sam-2503/samazon">Github</a>
+                        <a href = "livesite" target = "_blank">Live Demo</a>
+                   </div>
                 </div>
             </div>
             
-        </div>
-
-    </body>
+        </section>
 </html>
