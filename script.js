@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
+9-+document.addEventListener("DOMContentLoaded", function() {
     const navbarHeight = document.querySelector("nav").offsetHeight;
 
     function scroller(section) {
