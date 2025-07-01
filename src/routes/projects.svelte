@@ -20,7 +20,9 @@
 					</p>
 				</div>
 				<div class="card-actions justify-center">
-					<button class="btn btn-ghost btn-square"><Github /></button>
+					<a href="https://github.com/Sam-2503/RSveepee">
+						<button class="btn btn-ghost btn-square"><Github /></button>
+					</a>
 				</div>
 			</div>
 			<!-- Card 2 -->
@@ -31,8 +33,12 @@
 					<p>A portfolio site built for showcasing my front-end development skills and projects</p>
 				</div>
 				<div class="card-actions justify-center">
-					<button class="btn btn-ghost btn-square"><Github /></button>
-					<button class="btn btn-ghost btn-square"><Link /></button>
+					<a href="https://github.com/Sam-2503/Sam-2503.github.io">
+						<button class="btn btn-ghost btn-square"><Github /></button>
+					</a>
+					<a href="https://sam25.is-a.dev">
+						<button class="btn btn-ghost btn-square" target="_blank"><Link /></button>
+					</a>
 				</div>
 			</div>
 			<!-- Card 3 -->
@@ -43,7 +49,9 @@
 					<p>A club management site built for college campuses by students of NIT Silchar</p>
 				</div>
 				<div class="card-actions justify-center">
-					<button class="btn btn-ghost btn-square"><Github /></button>
+					<a href="https://github.com/Clouter-Dev/clouter">
+						<button class="btn btn-ghost btn-square"><Github /></button>
+					</a>
 				</div>
 			</div>
 		</div>

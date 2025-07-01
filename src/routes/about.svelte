@@ -1,12 +1,12 @@
-<section class="mx-6 my-24 flex">
+<section class="mx-6 my-24 flex gap-5">
 	<div>
 		<p class="heading"><u>About Me</u></p>
 		<div class="about">
 			<p>
-				Hey There! I'm Samprad (or Sam if we're already pals) I am an 18 year old from India with an
+				Hey There! I'm Samprad (or Sam if we're already pals) <br><br> I am an 18 year old from India with an
 				insatiable curiosity for tech, design and basically anything that makes the digital world
 				tick. I started this portfolio in my 2nd semester to document my journey in Web Development
-				and explore how creativity and code collide. When I'm not breaking my code (and occasionally
+				and explore how creativity and code collide. <br><br> When I'm not breaking my code (and occasionally
 				fixing it), I'm probably dragging myself through college life, or collaborating with
 				<a href="https://www.youtube.com/@acollegekidproductions" class = "link text-[#84dcc6]">ACK</a>, or crafting side projects
 				that nobody asked for-but hey, they're cool!
