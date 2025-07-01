@@ -10,3 +10,6 @@
 .heading {
 	@apply font-bold text-xl text-[#f46036];
 }
+html {
+  @apply scroll-pt-20;
+}

@@ -1,4 +1,4 @@
-<section class="mx-5 my-24 flex">
+<section class="mx-6 my-24 flex">
 	<div>
 		<p class="heading"><u>About Me</u></p>
 		<div class="about">
