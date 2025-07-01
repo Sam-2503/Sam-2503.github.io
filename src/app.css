@@ -8,5 +8,5 @@
 }
 
 .heading {
-	@apply font-bold text-xl;
+	@apply font-bold text-xl text-[#f46036];
 }

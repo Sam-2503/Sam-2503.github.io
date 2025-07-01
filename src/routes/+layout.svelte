@@ -1,19 +1,16 @@
 <script>
 	import '../app.css';
-	let { children } = $props();
 </script>
 
-<nav class="navbar border-b border-black">
-	<p class="navbar-start">My Portfolio</p>
-	<div class="navbar-end gap-2">
-		<a href = "/about">Home</a>
-		<a href = "/contact">Contact</a>
-		<a href = "/projects">Projects</a>
+<nav class="navbar fixed border-b px-5 border-black bg-[#335c67] text-[#171123] font-semibold">
+	<p class="navbar-start">sam25.is-a.dev</p>
+	<div class="navbar-end gap-3">
+		<a href="#home">Home</a>
+		<a href="#contact">Contact</a>
+		<a href="#projects">Projects</a>
 	</div>
 </nav>
 
-{@render children()}
+<slot />
 
-<footer class = "footer footer-center border-t border-black p-2">
-	Made by Sam using Svelte
-</footer>
+<footer class="footer footer-center border-t border-black p-2">Made by Sam using Svelte</footer>
