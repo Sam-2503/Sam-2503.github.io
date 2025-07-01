@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&family=Sora:wght@100..800&display=swap');
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
+@plugin 'daisyui';
+
+@theme {
+	--default-font-family: "inter";
+}
+
+.heading {
+	@apply font-bold text-xl text-[#f46036];
+}
+html {
+  @apply scroll-pt-20;
+}
