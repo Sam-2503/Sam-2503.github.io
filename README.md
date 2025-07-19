@@ -1,4 +1,5 @@
 # About the Project
+
 This is a personal project I started working on in my 2nd Semester of Engineering when i started learning frontend web development from Scrimba
 
 Deployed on 21st May 2025: <a href = "http://sam25.is-a.dev">Visit Now</a>
