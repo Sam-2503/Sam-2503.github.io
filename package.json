@@ -20,7 +20,6 @@
 		"@tailwindcss/typography": "^0.5.15",
 		"@tailwindcss/vite": "^4.0.0",
 		"daisyui": "^5.0.50",
-		"lucide-svelte": "^0.540.0",
 		"prettier": "^3.4.2",
 		"prettier-plugin-svelte": "^3.3.3",
 		"prettier-plugin-tailwindcss": "^0.6.11",
@@ -29,5 +28,8 @@
 		"tailwindcss": "^4.0.0",
 		"typescript": "^5.0.0",
 		"vite": "^7.0.4"
+	},
+	"dependencies": {
+		"@lucide/svelte": "^0.540.0"
 	}
 }
