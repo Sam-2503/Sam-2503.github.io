@@ -6,7 +6,7 @@ import "./App.css";
 
 function App() {
   return (
-    <>
+    <div className = "bg-svg w-full h-screen">
       <Navbar />
       <About
         heading="Samprad's Portfolio"
@@ -16,8 +16,12 @@ function App() {
         image={{ src: "https://sam25.is-a.dev/me.png", alt: "me" }}
       />
       <Contact />
-      <Projects />
-    </>
+      <Projects
+        tagline="Featured Projects"
+        heading="Projects"
+        description="Some of my favourite projects"
+      />
+    </div>
   );
 }
 

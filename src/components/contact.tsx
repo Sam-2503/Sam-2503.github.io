@@ -62,7 +62,7 @@ const Contact = ({
       logo: "https://i.pinimg.com/originals/b5/1b/78/b51b78ecc9e5711274931774e433b5e6.png",
     },
     {
-      id: "Samprad",
+      id: "samprad",
       name: "Linkedin",
       link: "https://www.linkedin.com/in/samprad/",
       logo: "https://i.pinimg.com/564x/6b/ab/30/6bab3017350ca04c6fa05569672bd31e.jpg",
