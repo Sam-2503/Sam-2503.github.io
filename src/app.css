@@ -2,11 +2,11 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
-.bg-svg {
-  background-image: url("/bg.svg");
+:root {
+  font: work-sans;
+  background: url("https://res.cloudinary.com/dsplnfii2/image/upload/v1757221599/bg_dccxxo.svg");
+  background-position-y: center;
   background-repeat: no-repeat;
-  background-size: cover; /* or contain */
-  background-position: center;
 }
 
 @theme inline {

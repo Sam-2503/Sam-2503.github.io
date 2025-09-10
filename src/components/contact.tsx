@@ -70,7 +70,7 @@ const Contact = ({
   ],
 }: SocialsProps) => {
   return (
-    <section className="py-4 font-work-sans">
+    <section className="py-4 px-28 font-work-sans" id = "contact">
       <div className="container flex flex-col items-center text-center">
         <h2 className="my-6 text-pretty text-2xl font-bold lg:text-4xl">
           {heading}

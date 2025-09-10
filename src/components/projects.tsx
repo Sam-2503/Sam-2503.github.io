@@ -81,7 +81,7 @@ export function Projects() {
 } 
 */
 
-import { ArrowRight } from "lucide-react";
+import { ArrowRight, Github } from "lucide-react";
 import {
   Card,
   CardContent,
@@ -93,7 +93,8 @@ interface Post {
   id: string;
   title: string;
   summary: string;
-  url: string;
+  url?: string;
+  github: string;
   image: string;
 }
 
@@ -112,30 +113,33 @@ const Projects = ({
       id: "post-1",
       title: "Rad-Yo",
       summary:
-        "Rad-Yo is inspired by the nostalgia of classic radios, vintage music, and the playful spirit of old-school technology. Tune in, leave notes, and enjoy a digital throwback to the days of analog dials and timeless tunes",
-      url: "https://shadcnblocks.com",
-      image: "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-1.svg",
+        "Inspired by the nostalgia of classic radios, vintage music, and the playful spirit of old-school technology. Rad-Yo is a digital throwback to the days of analog dials and timeless tunes",
+      url: "https://rad-yo-seven.vercel.app/",
+      github: "https://github.com/Sam-2503/osdc-hack",
+      image: "https://res.cloudinary.com/dsplnfii2/image/upload/v1757216169/radyo_rprnmk.png",
     },
     {
       id: "post-2",
       title: "RSveepee",
       summary:
         "RSveepee is a full stack application that allows users to manage, and join events with a modern interface",
-      url: "https://shadcnblocks.com",
-      image: "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-1.svg",
+      url: "https://github.com/Sam-2503/RSveepee",
+      github: "https://github.com/Sam-2503/RSveepee",
+      image: "https://res.cloudinary.com/dsplnfii2/image/upload/v1757216169/rsveepee_htf464.png",
     },
     {
       id: "post-3",
       title: "My Portfolio",
       summary:
         "A portfolio site built for showcasing my front-end development skills and projects",
-      url: "https://shadcnblocks.com",
-      image: "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-1.svg",
+      url: "https://sam25.is-a.dev",
+      github: "https://github.com/Sam-2503/Sam-2503.github.io",
+      image: "https://res.cloudinary.com/dsplnfii2/image/upload/v1757216168/portfolio_yd5gmz.png",
     },
   ],
 }: ProjectsProps) => {
   return (
-    <section className="py-4">
+    <section className="py-4 font-work-sans" id="projects">
       <div className="container mx-auto flex flex-col items-center gap-16 lg:px-16">
         <div className="text-center">
           <h2 className="mb-3 text-3xl font-semibold text-pretty md:mb-4 md:text-4xl lg:mb-6 lg:max-w-3xl lg:text-5xl">
@@ -149,7 +153,7 @@ const Projects = ({
           {posts.map((post) => (
             <Card
               key={post.id}
-              className="grid grid-rows-[auto_auto_1fr_auto] pt-0"
+              className="grid grid-rows-[auto_auto_1fr_auto] pt-0 overflow-hidden"
             >
               <div className="aspect-16/9 w-full">
                 <a
@@ -176,12 +180,12 @@ const Projects = ({
               </CardContent>
               <CardFooter>
                 <a
-                  href={post.url}
+                  href={post.github}
                   target="_blank"
-                  className="flex items-center text-foreground hover:underline"
+                  className="flex items-center gap-2 text-foreground hover:underline"
                 >
-                  Read more
-                  <ArrowRight className="ml-2 size-4" />
+                  <Github />
+                  Visit Repository
                 </a>
               </CardFooter>
             </Card>
