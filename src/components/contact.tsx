@@ -82,7 +82,7 @@ const Contact = ({
       <div className="container mt-16 grid gap-x-8 gap-y-16 md:grid-cols-2 lg:grid-cols-3">
         {socials.map((social) => (
           <div key={social.id} className="flex flex-col items-center">
-            <Avatar className="mb-4 size-20 border md:mb-5 lg:size-24">
+            <Avatar className="mb-4 size-20 border md:mb-5 lg:size-24 hover:scale-110 transition:smooth">
               <AvatarImage src={social.logo} />
               <AvatarFallback>{social.name}</AvatarFallback>
             </Avatar>

@@ -2,11 +2,12 @@ import { Navbar } from "./components/navbar";
 import { About } from "./components/about";
 import { Contact } from "./components/contact";
 import { Projects } from "./components/projects";
+import {Footer} from "./components/footer";
 import "./App.css";
 
 function App() {
   return (
-    <div className="bg-svg w-full h-screen scroll-smooth">
+    <div className="w-full h-screen scroll-smooth">
       <Navbar />
       <About
         heading="Samprad's Portfolio"
@@ -19,6 +20,7 @@ function App() {
         heading="Projects"
         description="Some of my favourite projects"
       />
+      <Footer />
     </div>
   );
 }

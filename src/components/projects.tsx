@@ -139,10 +139,10 @@ const Projects = ({
   ],
 }: ProjectsProps) => {
   return (
-    <section className="py-4 font-work-sans" id="projects">
+    <section className="pt-4 font-work-sans" id="projects">
       <div className="container mx-auto flex flex-col items-center gap-16 lg:px-16">
         <div className="text-center">
-          <h2 className="mb-3 text-3xl font-semibold text-pretty md:mb-4 md:text-4xl lg:mb-6 lg:max-w-3xl lg:text-5xl">
+          <h2 className="mb-3 text-pretty text-2xl font-bold md:mb-4 md:text-2xl lg:mb-6 lg:max-w-3xl lg:text-4xl">
             {heading}
           </h2>
           <p className="mb-2 text-muted-foreground md:text-base lg:max-w-2xl lg:text-lg">
