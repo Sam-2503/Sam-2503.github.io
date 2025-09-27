@@ -3,6 +3,8 @@
 @import "tw-animate-css";
 
 :root {
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+  scrollbar-width: none; /* Firefox, Safari 18.2+, Chromium 121+ */
   --radius: 0.625rem;
   --foreground: oklch(1 0 0);
   --background: oklch(0.21 0.01 286);
@@ -101,9 +103,8 @@
   body {
     @apply text-foreground font-base;
     background-color: var(--background);
-    background-image: url('https://res.cloudinary.com/dsplnfii2/image/upload/v1757221599/bg_dccxxo.svg');
+    background-image: url("https://res.cloudinary.com/dsplnfii2/image/upload/v1757221599/bg_dccxxo.svg");
     background-position: bottom;
-
   }
 
   h1,

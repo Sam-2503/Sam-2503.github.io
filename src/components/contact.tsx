@@ -1,34 +1,3 @@
-/* export function Contact() {
-    return (
-        <>
-
-            <section className="mx-6 my-20">
-                <div>
-                    <p className = "heading"><u>Connect with Me</u></p>
-
-                    <ul>
-                        <li className="social github my-3 flex gap-2">
-                            <Github /><strong>Github:</strong>
-                            <a href="https://github.com/Sam-2503" target="_blank" className = "text-[#84dcc6]">Sam-2503</a>
-                        </li>
-
-                        <li className="social linkedin my-3 flex gap-2">
-                            <Linkedin /><strong>LinkedIn</strong>:
-                            <a href="https://linkedin.com/in/samprad/" target="_blank" className = "text-[#84dcc6]">samprad</a>
-                        </li>
-
-                        <li className="social insta my-3 flex gap-2">
-                            <Instagram /><strong>Instagram</strong>:
-                            <a href="https://instagram.com/__sam.25_" target="_blank" className = "text-[#84dcc6]">__sam.25_</a>
-                        </li>
-                    </ul>
-                </div>
-            </section>
-
-        </>
-    )
-}
-*/
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 
 interface SocialMedia {
@@ -44,6 +13,10 @@ interface SocialsProps {
   description?: string;
   socials?: SocialMedia[];
 }
+
+const handleClick = (url: string) => {
+  window.location.assign(url);
+};
 
 const Contact = ({
   heading = "Socials",
@@ -70,7 +43,7 @@ const Contact = ({
   ],
 }: SocialsProps) => {
   return (
-    <section className="py-4 px-28 font-work-sans" id = "contact">
+    <section className="py-4 px-28 font-work-sans" id="contact">
       <div className="container flex flex-col items-center text-center">
         <h2 className="my-6 text-pretty text-2xl font-bold lg:text-4xl">
           {heading}
@@ -79,15 +52,17 @@ const Contact = ({
           {description}
         </p>
       </div>
-      <div className="container mt-16 grid gap-x-8 gap-y-16 md:grid-cols-2 lg:grid-cols-3">
+      <div className="container mt-16 grid grid-cols-3 gap-x-8 gap-y-16 md:grid-cols-3 lg:grind-cols-3">
         {socials.map((social) => (
           <div key={social.id} className="flex flex-col items-center">
-            <Avatar className="mb-4 size-20 border md:mb-5 lg:size-24 hover:scale-110 transition:smooth">
+            <Avatar
+              className="mb-4 size-20 border md:mb-5 lg:size-24 hover:scale-110 transition:smooth"
+              onClick={() => handleClick(social.link)}
+            >
               <AvatarImage src={social.logo} />
               <AvatarFallback>{social.name}</AvatarFallback>
             </Avatar>
             <p className="text-center font-medium">{social.name}</p>
-            <a className="text-muted-foreground text-center" href = {social.link}>{social.id}</a>
           </div>
         ))}
       </div>
