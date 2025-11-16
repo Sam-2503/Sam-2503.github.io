@@ -23,9 +23,9 @@ const Contact = ({
   description = "Connect with me on the following platforms",
   socials = [
     {
-      id: "__sam.25_",
+      id: "sam25.__",
       name: "Instagram",
-      link: "https://www.instagram.com/__sam.25_/",
+      link: "https://www.instagram.com/sam25.__/",
       logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8T_Ph0xtjCuvzy2XJCLobSc9wH81u2o2ocw&s",
     },
     {

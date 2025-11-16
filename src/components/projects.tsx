@@ -27,13 +27,24 @@ const Projects = ({
   description = "Some of my favourite projects",
   posts = [
     {
+      id: "post-4",
+      title: "FinBuddy",
+      summary:
+        "A budget-planning platform featuring an integrated AI financial assistant with chat and voice support. Powered by Agora AI Conversational Bot SDK, FinBuddy offers real-time, personalized financial advice to help users manage their finances effectively.",
+      url: "https://finbuddy-alpha.vercel.app/",
+      github: "https://github.com/Sam-2503/FinBuddy",
+      image:
+        "https://res.cloudinary.com/dsplnfii2/image/upload/v1763294018/07570729-5bd9-4a73-b1d3-f6f913923ba7.png",
+    },
+    {
       id: "post-1",
       title: "Rad-Yo",
       summary:
         "Inspired by the nostalgia of classic radios, vintage music, and the playful spirit of old-school technology. Rad-Yo is a digital throwback to the days of analog dials and timeless tunes",
       url: "https://rad-yo-seven.vercel.app/",
       github: "https://github.com/Sam-2503/osdc-hack",
-      image: "https://res.cloudinary.com/dsplnfii2/image/upload/v1757216169/radyo_rprnmk.png",
+      image:
+        "https://res.cloudinary.com/dsplnfii2/image/upload/v1757216169/radyo_rprnmk.png",
     },
     {
       id: "post-2",
@@ -42,7 +53,8 @@ const Projects = ({
         "RSveepee is a full stack application that allows users to manage, and join events with a modern interface",
       url: "https://github.com/Sam-2503/RSveepee",
       github: "https://github.com/Sam-2503/RSveepee",
-      image: "https://res.cloudinary.com/dsplnfii2/image/upload/v1757216169/rsveepee_htf464.png",
+      image:
+        "https://res.cloudinary.com/dsplnfii2/image/upload/v1757216169/rsveepee_htf464.png",
     },
     {
       id: "post-3",
@@ -51,7 +63,8 @@ const Projects = ({
         "A portfolio site built for showcasing my front-end development skills and projects",
       url: "https://sam25.is-a.dev",
       github: "https://github.com/Sam-2503/Sam-2503.github.io",
-      image: "https://res.cloudinary.com/dsplnfii2/image/upload/v1757216168/portfolio_yd5gmz.png",
+      image:
+        "https://res.cloudinary.com/dsplnfii2/image/upload/v1757216168/portfolio_yd5gmz.png",
     },
   ],
 }: ProjectsProps) => {
@@ -114,4 +127,3 @@ const Projects = ({
 };
 
 export { Projects };
-
