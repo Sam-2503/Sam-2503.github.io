@@ -1,0 +1,25 @@
+[
+  {
+    "route": "/",
+    "firstLoadUncompressedJsBytes": 628754,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/06lly75t56fms.js",
+      ".next/static/chunks/3_govve3l3mns.js",
+      ".next/static/chunks/0kds356k0ap-y.js",
+      ".next/static/chunks/3-wwijc0b3nhq.js",
+      ".next/static/chunks/3t0u1e16pz9ur.js",
+      ".next/static/chunks/turbopack-0tu8mbvofmzmg.js"
+    ]
+  },
+  {
+    "route": "/_not-found",
+    "firstLoadUncompressedJsBytes": 514512,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/06lly75t56fms.js",
+      ".next/static/chunks/0kds356k0ap-y.js",
+      ".next/static/chunks/3-wwijc0b3nhq.js",
+      ".next/static/chunks/3t0u1e16pz9ur.js",
+      ".next/static/chunks/turbopack-0tu8mbvofmzmg.js"
+    ]
+  }
+]
