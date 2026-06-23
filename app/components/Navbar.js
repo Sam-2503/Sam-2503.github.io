@@ -1,7 +1,8 @@
 export default function Navbar() {
   return (
     <>
-      <div className="global_css">
+        <div data-taxi="" className="page_wrap">
+        <div className="global_css">
             <div className="global_code_base w-embed">
                 <style dangerouslySetInnerHTML={{ __html: `
                     :root {
@@ -346,7 +347,7 @@ export default function Navbar() {
                 </div>
             </div>
             <div className="menu_visual">
-                <div className="w-layout-vflex menu_img u-visual-wrap"><video src="https://PlayfightSite.b-cdn.net/Home/PF%20Reel_2026.mp4" autoplay="autoplay" loop="" muted="" webkit-playsInline="" playsInline="" className="g_visual_video"></video></div>
+                <div className="w-layout-vflex menu_img u-visual-wrap"><video src="https://PlayfightSite.b-cdn.net/Home/PF%20Reel_2026.mp4" autoPlay loop muted  playsInline="" className="g_visual_video"></video></div>
             </div>
         </div>
         <div className="footer_bottom">
@@ -356,7 +357,7 @@ export default function Navbar() {
                 <div>Subscribe for the latest.</div>
                 <div className="nl_form_main w-form">
                     <form id="wf-form-EMAIL" name="wf-form-EMAIL" data-name="EMAIL" action="https://letsplayfight.us22.list-manage.com/subscribe/post?u=0c3db12b1262a315edff9e81c&amp;amp;id=b365f9befb&amp;amp;f_id=00e7c2e1f0" method="post" className="form_main_list"
-                        data-wf-page-id="697fef4d1b1e73b328ad49be" data-wf-element-id="2414bcc2-cd88-ec07-1583-ef6269a2c25a"><label className="nl_form_main_field_wrap"><input className="nl_form_main_field_input w-input" maxLength="256" name="EMAIL" data-name="EMAIL" placeholder="Email" type="email" id="EMAIL" required=""/><div className="nl_form_btn"><div className="g_clickable_wrap"><a target="" href="#" className="g_clickable_link w-inline-block"><span className="g_clickable_text u-sr-only">Submit</span></a><button type="submit" className="g_clickable_btn"><span className="g_clickable_text u-sr-only">Submit</span></button></div><svg data-wf--icon-arrow--variant="base" viewBox="0 0 8 13" fill="none" width="100%" height="100%" vector-path="non-scaling-stroke" aria-hidden="true" className="g_svg g_path"><path d="M0.506958 0.552979L6.50696 6.05298L0.506958 11.553" stroke="currentColor" strokeWidth="var(--border-width--main)" vector-effect="non-scaling-stroke"></path></svg></div></label></form>
+                        data-wf-page-id="697fef4d1b1e73b328ad49be" data-wf-element-id="2414bcc2-cd88-ec07-1583-ef6269a2c25a"><label className="nl_form_main_field_wrap"><input className="nl_form_main_field_input w-input" maxLength="256" name="EMAIL" data-name="EMAIL" placeholder="Email" type="email" id="EMAIL" required=""/><div className="nl_form_btn"><div className="g_clickable_wrap"><a target="" href="#" className="g_clickable_link w-inline-block"><span className="g_clickable_text u-sr-only">Submit</span></a><button type="submit" className="g_clickable_btn"><span className="g_clickable_text u-sr-only">Submit</span></button></div><svg data-wf--icon-arrow--variant="base" viewBox="0 0 8 13" fill="none" width="100%" height="100%" vector-path="non-scaling-stroke" aria-hidden="true" className="g_svg g_path"><path d="M0.506958 0.552979L6.50696 6.05298L0.506958 11.553" stroke="currentColor" strokeWidth="var(--border-width--main)" vectorEffect="non-scaling-stroke"></path></svg></div></label></form>
                     <div
                         className="form_main_success_wrap w-form-done">
                         <div className="form_main_success_text">Thank you! Your submission has been received!</div>
@@ -375,7 +376,7 @@ export default function Navbar() {
         <div className="footer_nl">
             <div>Subscribe for the latest.</div>
             <div className="nl_form_main w-form">
-                <form id="email-form" name="email-form" data-name="Email Form" method="get" className="form_main_list" data-wf-page-id="697fef4d1b1e73b328ad49be" data-wf-element-id="1167b9ce-6c4b-9fde-3687-641e709a1751"><label className="nl_form_main_field_wrap"><input className="nl_form_main_field_input w-input" maxLength="256" name="email-2" data-name="Email 2" placeholder="Email" type="email" id="email-address" required=""/><div className="nl_form_btn"><div className="g_clickable_wrap"><a target="" href="#" className="g_clickable_link w-inline-block"><span className="g_clickable_text u-sr-only">Submit</span></a><button type="submit" className="g_clickable_btn"><span className="g_clickable_text u-sr-only">Submit</span></button></div><svg data-wf--icon-arrow--variant="base" viewBox="0 0 8 13" fill="none" width="100%" height="100%" vector-path="non-scaling-stroke" aria-hidden="true" className="g_svg g_path"><path d="M0.506958 0.552979L6.50696 6.05298L0.506958 11.553" stroke="currentColor" strokeWidth="var(--border-width--main)" vector-effect="non-scaling-stroke"></path></svg></div></label></form>
+                <form id="email-form" name="email-form" data-name="Email Form" method="get" className="form_main_list" data-wf-page-id="697fef4d1b1e73b328ad49be" data-wf-element-id="1167b9ce-6c4b-9fde-3687-641e709a1751"><label className="nl_form_main_field_wrap"><input className="nl_form_main_field_input w-input" maxLength="256" name="email-2" data-name="Email 2" placeholder="Email" type="email" id="email-address" required=""/><div className="nl_form_btn"><div className="g_clickable_wrap"><a target="" href="#" className="g_clickable_link w-inline-block"><span className="g_clickable_text u-sr-only">Submit</span></a><button type="submit" className="g_clickable_btn"><span className="g_clickable_text u-sr-only">Submit</span></button></div><svg data-wf--icon-arrow--variant="base" viewBox="0 0 8 13" fill="none" width="100%" height="100%" vector-path="non-scaling-stroke" aria-hidden="true" className="g_svg g_path"><path d="M0.506958 0.552979L6.50696 6.05298L0.506958 11.553" stroke="currentColor" strokeWidth="var(--border-width--main)" vectorEffect="non-scaling-stroke"></path></svg></div></label></form>
                 <div
                     className="form_main_success_wrap w-form-done">
                     <div className="form_main_success_text">Thank you! Your submission has been received!</div>

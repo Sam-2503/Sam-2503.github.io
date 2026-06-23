@@ -6,7 +6,7 @@ export default function Intro() {
                     <div className="intro_video_mobile">
                         <div className="global_reel_collection w-dyn-list">
                             <div role="list" className="global_reel_list w-dyn-items">
-                                <div role="listitem" className="global_reel_video_item w-dyn-item"><video src="https://PlayfightSite.b-cdn.net/Home/UOT_HOME2_1.mp4" autoplay="autoplay" loop="" muted="" webkit-playsInline="" playsInline="" className="g_visual_video"></video></div>
+                                <div role="listitem" className="global_reel_video_item w-dyn-item"><video src="https://PlayfightSite.b-cdn.net/Home/UOT_HOME2_1.mp4" autoPlay loop muted  playsInline="" className="g_visual_video"></video></div>
                             </div>
                         </div>
                     </div>

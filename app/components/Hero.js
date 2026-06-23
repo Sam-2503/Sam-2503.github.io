@@ -19,7 +19,7 @@ export default function Hero() {
                                     <div className="hero_visual_collection w-dyn-list">
                                         <div role="list" className="hero_visual_list w-dyn-items">
                                             <div role="listitem" className="hero_visual_item w-dyn-item">
-                                                <div className="hero_visual_video"><video src="https://PlayfightSite.b-cdn.net/Home/skismall.mp4" autoplay="autoplay" loop="" muted="" webkit-playsInline="" playsInline="" className="g_visual_video"></video></div>
+                                                <div className="hero_visual_video"><video src="https://PlayfightSite.b-cdn.net/Home/skismall.mp4" autoPlay loop muted  playsInline="" className="g_visual_video"></video></div>
                                             </div>
                                         </div>
                                     </div>
@@ -55,7 +55,7 @@ export default function Hero() {
                                 </div>
                                 <div id="w-node-_9ba7d303-cbd8-62b6-c41a-f260f9d72e75-f9d72e34" className="w-layout-vflex hero_visual_image u-visual-wrap is-6">
                                     <div data-anim-hero-scroll="video-flip-move" className="video-player is-hero-move">
-                                        <div className="hero_visual_video"><video src="https://PlayfightSite.b-cdn.net/Home/PF%20Reel_2026.mp4" autoplay="autoplay" loop="" muted="" webkit-playsInline="" playsInline="" className="g_visual_video"></video></div>
+                                        <div className="hero_visual_video"><video src="https://PlayfightSite.b-cdn.net/Home/PF%20Reel_2026.mp4" autoPlay loop muted  playsInline="" className="g_visual_video"></video></div>
                                     </div>
                                 </div>
                             </div>
