@@ -12,7 +12,7 @@ export default function FeaturedProjects() {
                                 <div id="w-node-_1ef36d21-cd8e-f8c6-4978-037acd605c2a-28ad49be" role="listitem" className="featured_project_item w-dyn-item">
                                     <a aria-label="project link" href="/project/adventure-safe" className="featured_project_link w-inline-block">
                                         <div className="featured_project_image u-visual-wrap">
-                                            <figure className="g_img_wrap"><img crossOrigin="anonymous" src="https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a0de3e1c97f50c2085ff2a7_frankandmorris.webp" loading="eager" data-anim-parallax="false" data-gl-img="true" alt="" className="g_img" /></figure>
+                                            <figure className="g_img_wrap"><img crossOrigin="anonymous" src="/static/6a0de3e1c97f50c2085ff2a7_frankandmorris.webp" loading="eager" data-anim-parallax="false" data-gl-img="true" alt="" className="g_img" /></figure>
                                         </div>
                                         <div className="w-layout-vflex featured_project_info">
                                             <div data-wf--global-heading--settings-variant="text-large" data-project-hover="" className="u-display-contents">
@@ -38,7 +38,7 @@ export default function FeaturedProjects() {
                                 <div id="w-node-_1ef36d21-cd8e-f8c6-4978-037acd605c2a-28ad49be" role="listitem" className="featured_project_item w-dyn-item">
                                     <a aria-label="project link" href="/project/utah-office-of-tourism-parks-beyond" className="featured_project_link w-inline-block">
                                         <div className="featured_project_image u-visual-wrap">
-                                            <figure className="g_img_wrap"><img crossOrigin="anonymous" src="https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a19b3deb01673d30cf19e5d_Mask%20group.webp" loading="eager" data-anim-parallax="false" data-gl-img="true" alt="" className="g_img" /></figure>
+                                            <figure className="g_img_wrap"><img crossOrigin="anonymous" src="/static/6a19b3deb01673d30cf19e5d_Mask_group.webp" loading="eager" data-anim-parallax="false" data-gl-img="true" alt="" className="g_img" /></figure>
                                         </div>
                                         <div className="w-layout-vflex featured_project_info">
                                             <div data-wf--global-heading--settings-variant="text-large" data-project-hover="" className="u-display-contents">
@@ -64,7 +64,7 @@ export default function FeaturedProjects() {
                                 <div id="w-node-_1ef36d21-cd8e-f8c6-4978-037acd605c2a-28ad49be" role="listitem" className="featured_project_item w-dyn-item">
                                     <a aria-label="project link" href="/project/grit-moto---blue-danube" className="featured_project_link w-inline-block">
                                         <div className="featured_project_image u-visual-wrap">
-                                            <figure className="g_img_wrap"><img crossOrigin="anonymous" src="https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a1762922da16e223f6bdd3f_20251021_GritMoto-Cascade_192%20(1)%201.webp" loading="eager" data-anim-parallax="false" data-gl-img="true" alt=""
+                                            <figure className="g_img_wrap"><img crossOrigin="anonymous" src="/static/6a1762922da16e223f6bdd3f_20251021_GritMoto-Cascade_192__1__1.webp" loading="eager" data-anim-parallax="false" data-gl-img="true" alt=""
                                                     className="g_img" /></figure>
                                         </div>
                                         <div className="w-layout-vflex featured_project_info">
@@ -91,7 +91,7 @@ export default function FeaturedProjects() {
                                 <div id="w-node-_1ef36d21-cd8e-f8c6-4978-037acd605c2a-28ad49be" role="listitem" className="featured_project_item w-dyn-item">
                                     <a aria-label="project link" href="/project/wgu---lilly-project" className="featured_project_link w-inline-block">
                                         <div className="featured_project_image u-visual-wrap">
-                                            <figure className="g_img_wrap"><img crossOrigin="anonymous" src="https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a17707daa3f837f06cbdd26_TeachersworkingwirthStudents9-1.webp" loading="eager" data-anim-parallax="false" data-gl-img="true" alt="" className="g_img"
+                                            <figure className="g_img_wrap"><img crossOrigin="anonymous" src="/static/6a17707daa3f837f06cbdd26_TeachersworkingwirthStudents9-1.webp" loading="eager" data-anim-parallax="false" data-gl-img="true" alt="" className="g_img"
                                                 /></figure>
                                         </div>
                                         <div className="w-layout-vflex featured_project_info">
@@ -118,7 +118,7 @@ export default function FeaturedProjects() {
                                 <div id="w-node-_1ef36d21-cd8e-f8c6-4978-037acd605c2a-28ad49be" role="listitem" className="featured_project_item w-dyn-item">
                                     <a aria-label="project link" href="/project/utah-office-of-tourism-ski-winter" className="featured_project_link w-inline-block">
                                         <div className="featured_project_image u-visual-wrap">
-                                            <figure className="g_img_wrap"><img crossOrigin="anonymous" src="https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a19b2f83d9fd98845cf4a9b_image%20851.webp" loading="eager" data-anim-parallax="false" data-gl-img="true" alt="" className="g_img" /></figure>
+                                            <figure className="g_img_wrap"><img crossOrigin="anonymous" src="/static/6a19b2f83d9fd98845cf4a9b_image_851.webp" loading="eager" data-anim-parallax="false" data-gl-img="true" alt="" className="g_img" /></figure>
                                         </div>
                                         <div className="w-layout-vflex featured_project_info">
                                             <div data-wf--global-heading--settings-variant="text-large" data-project-hover="" className="u-display-contents">

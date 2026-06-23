@@ -17,7 +17,7 @@ export default function Services() {
                                     <div role="listitem" className="service_item u-grid-main w-dyn-item">
                                         <div className="service_visual_left">
                                             <div data-service-hover="visual" className="w-layout-vflex service_visual_image u-visual-wrap">
-                                                <figure className="g_img_wrap u-cover-absolute"><img src="https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a0dd46d936d6f4534c2d690__DSC4612%20(1)%201.webp" loading="lazy" data-anim-parallax="false" data-gl-img="false" alt="" className="g_img"
+                                                <figure className="g_img_wrap u-cover-absolute"><img src="/static/6a0dd46d936d6f4534c2d690__DSC4612__1__1.webp" loading="lazy" data-anim-parallax="false" data-gl-img="false" alt="" className="g_img"
                                                     /></figure>
                                             </div>
                                             <div className="w-layout-vflex service_visual_text_wrap">
@@ -40,7 +40,7 @@ export default function Services() {
                                     <div role="listitem" className="service_item u-grid-main w-dyn-item">
                                         <div className="service_visual_left">
                                             <div data-service-hover="visual" className="w-layout-vflex service_visual_image u-visual-wrap">
-                                                <figure className="g_img_wrap u-cover-absolute"><img src="https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a0dd47c85badc6d613f1799_Screenshot%202026-05-19%20at%205.42.35%E2%80%AFPM%201.webp" loading="lazy" data-anim-parallax="false" data-gl-img="false"
+                                                <figure className="g_img_wrap u-cover-absolute"><img src="/static/6a0dd47c85badc6d613f1799_Screenshot_2026-05-19_at_5.42.35_PM_1.webp" loading="lazy" data-anim-parallax="false" data-gl-img="false"
                                                         alt="" className="g_img" /></figure>
                                             </div>
                                             <div className="w-layout-vflex service_visual_text_wrap">
@@ -63,7 +63,7 @@ export default function Services() {
                                     <div role="listitem" className="service_item u-grid-main w-dyn-item">
                                         <div className="service_visual_left">
                                             <div data-service-hover="visual" className="w-layout-vflex service_visual_image u-visual-wrap">
-                                                <figure className="g_img_wrap u-cover-absolute"><img src="https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a0dd4a495a502dd49d8a8da_frame_48%202.webp" loading="lazy" data-anim-parallax="false" data-gl-img="false" alt="" className="g_img" /></figure>
+                                                <figure className="g_img_wrap u-cover-absolute"><img src="/static/6a0dd4a495a502dd49d8a8da_frame_48_2.webp" loading="lazy" data-anim-parallax="false" data-gl-img="false" alt="" className="g_img" /></figure>
                                             </div>
                                             <div className="w-layout-vflex service_visual_text_wrap">
                                                 <div data-service-hover="visual-text" className="service_visual_text w-richtext">
@@ -85,7 +85,7 @@ export default function Services() {
                                     <div role="listitem" className="service_item u-grid-main w-dyn-item">
                                         <div className="service_visual_left">
                                             <div data-service-hover="visual" className="w-layout-vflex service_visual_image u-visual-wrap">
-                                                <figure className="g_img_wrap u-cover-absolute"><img src="https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a0dd487eaa7c8abbf420f4d_February%2014%2C%202025%20at%204_41%E2%80%AFPM0198.webp" loading="lazy" data-anim-parallax="false" data-gl-img="false"
+                                                <figure className="g_img_wrap u-cover-absolute"><img src="/static/6a0dd487eaa7c8abbf420f4d_February_14__2025_at_4_41_PM0198.webp" loading="lazy" data-anim-parallax="false" data-gl-img="false"
                                                         alt="" className="g_img" /></figure>
                                             </div>
                                             <div className="w-layout-vflex service_visual_text_wrap">
@@ -108,7 +108,7 @@ export default function Services() {
                                     <div role="listitem" className="service_item u-grid-main w-dyn-item">
                                         <div className="service_visual_left">
                                             <div data-service-hover="visual" className="w-layout-vflex service_visual_image u-visual-wrap">
-                                                <figure className="g_img_wrap u-cover-absolute"><img src="https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a0dd49ddcc7c10a6cc924ca_kerrrn._photo_realistic_.webp" loading="lazy" data-anim-parallax="false" data-gl-img="false" alt="" className="g_img"
+                                                <figure className="g_img_wrap u-cover-absolute"><img src="/static/6a0dd49ddcc7c10a6cc924ca_kerrrn._photo_realistic_.webp" loading="lazy" data-anim-parallax="false" data-gl-img="false" alt="" className="g_img"
                                                     /></figure>
                                             </div>
                                             <div className="w-layout-vflex service_visual_text_wrap">
@@ -131,7 +131,7 @@ export default function Services() {
                                     <div role="listitem" className="service_item u-grid-main w-dyn-item">
                                         <div className="service_visual_left">
                                             <div data-service-hover="visual" className="w-layout-vflex service_visual_image u-visual-wrap">
-                                                <figure className="g_img_wrap u-cover-absolute"><img src="https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a0dd4acecf1217cc234c326__DSC4763%20(2)%201.webp" loading="lazy" data-anim-parallax="false" data-gl-img="false" alt="" className="g_img"
+                                                <figure className="g_img_wrap u-cover-absolute"><img src="/static/6a0dd4acecf1217cc234c326__DSC4763__2__1.webp" loading="lazy" data-anim-parallax="false" data-gl-img="false" alt="" className="g_img"
                                                     /></figure>
                                             </div>
                                             <div className="w-layout-vflex service_visual_text_wrap">
@@ -154,7 +154,7 @@ export default function Services() {
                                     <div role="listitem" className="service_item u-grid-main w-dyn-item">
                                         <div className="service_visual_left">
                                             <div data-service-hover="visual" className="w-layout-vflex service_visual_image u-visual-wrap">
-                                                <figure className="g_img_wrap u-cover-absolute"><img src="https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a0dd4c423bb515d400fa1dc__MG_0004%201.webp" loading="lazy" data-anim-parallax="false" data-gl-img="false" alt="" className="g_img" /></figure>
+                                                <figure className="g_img_wrap u-cover-absolute"><img src="/static/6a0dd4c423bb515d400fa1dc__MG_0004_1.webp" loading="lazy" data-anim-parallax="false" data-gl-img="false" alt="" className="g_img" /></figure>
                                             </div>
                                             <div className="w-layout-vflex service_visual_text_wrap">
                                                 <div data-service-hover="visual-text" className="service_visual_text w-richtext">
@@ -176,7 +176,7 @@ export default function Services() {
                                     <div role="listitem" className="service_item u-grid-main w-dyn-item">
                                         <div className="service_visual_left">
                                             <div data-service-hover="visual" className="w-layout-vflex service_visual_image u-visual-wrap">
-                                                <figure className="g_img_wrap u-cover-absolute"><img src="https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a0dd4bbab35fb9300bd540f_February%2014%2C%202025%20at%204_41%E2%80%AFPM0192.webp" loading="lazy" data-anim-parallax="false" data-gl-img="false"
+                                                <figure className="g_img_wrap u-cover-absolute"><img src="/static/6a0dd4bbab35fb9300bd540f_February_14__2025_at_4_41_PM0192.webp" loading="lazy" data-anim-parallax="false" data-gl-img="false"
                                                         alt="" className="g_img" /></figure>
                                             </div>
                                             <div className="w-layout-vflex service_visual_text_wrap">
@@ -199,7 +199,7 @@ export default function Services() {
                                     <div role="listitem" className="service_item u-grid-main w-dyn-item">
                                         <div className="service_visual_left">
                                             <div data-service-hover="visual" className="w-layout-vflex service_visual_image u-visual-wrap">
-                                                <figure className="g_img_wrap u-cover-absolute"><img src="https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a0dd4cb1b9bfda524a6d807_Mask%20group.webp" loading="lazy" data-anim-parallax="false" data-gl-img="false" alt="" className="g_img" /></figure>
+                                                <figure className="g_img_wrap u-cover-absolute"><img src="/static/6a0dd4cb1b9bfda524a6d807_Mask_group.webp" loading="lazy" data-anim-parallax="false" data-gl-img="false" alt="" className="g_img" /></figure>
                                             </div>
                                             <div className="w-layout-vflex service_visual_text_wrap">
                                                 <div data-service-hover="visual-text" className="service_visual_text w-richtext">

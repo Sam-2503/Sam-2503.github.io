@@ -1222,7 +1222,7 @@ function Navbar() {
                                             className: "footer_credit_phone_link w-inline-block",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                    src: "https://cdn.prod.website-files.com/697fef4d1b1e73b328ad49cd/69a85deeeae0142fe477754b_cal.svg",
+                                                    src: "/static/69a85deeeae0142fe477754b_cal.svg",
                                                     loading: "lazy",
                                                     alt: "",
                                                     className: "g_img cal"
@@ -1240,7 +1240,7 @@ function Navbar() {
                                                         }, void 0, false, {
                                                             fileName: "[project]/repositories/Sam-2503.github.io/app/components/Navbar.js",
                                                             lineNumber: 353,
-                                                            columnNumber: 385
+                                                            columnNumber: 333
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             className: "footer_credit_phone_text is-abs",
@@ -1248,13 +1248,13 @@ function Navbar() {
                                                         }, void 0, false, {
                                                             fileName: "[project]/repositories/Sam-2503.github.io/app/components/Navbar.js",
                                                             lineNumber: 353,
-                                                            columnNumber: 457
+                                                            columnNumber: 405
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/repositories/Sam-2503.github.io/app/components/Navbar.js",
                                                     lineNumber: 353,
-                                                    columnNumber: 322
+                                                    columnNumber: 270
                                                 }, this)
                                             ]
                                         }, void 0, true, {
@@ -1884,7 +1884,7 @@ function Hero() {
                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("figure", {
                                                             className: "g_img_wrap u-cover-absolute",
                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                                src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a14daa71be796e1f813084f_DSC05060.webp",
+                                                                src: "/static/6a14daa71be796e1f813084f_DSC05060.webp",
                                                                 loading: "eager",
                                                                 "data-anim-parallax": "false",
                                                                 "data-gl-img": "false",
@@ -1987,7 +1987,7 @@ function Hero() {
                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("figure", {
                                                             className: "g_img_wrap u-cover-absolute",
                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                                src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a17c10acb7f9db7732761ed_UOT_Fall_2025_AdamClark_0739square.webp",
+                                                                src: "/static/6a17c10acb7f9db7732761ed_UOT_Fall_2025_AdamClark_0739square.webp",
                                                                 loading: "eager",
                                                                 "data-anim-parallax": "false",
                                                                 "data-gl-img": "false",
@@ -2038,7 +2038,7 @@ function Hero() {
                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("figure", {
                                                             className: "g_img_wrap u-cover-absolute",
                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                                src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a0e150561920f31614f12a2_Frank.webp",
+                                                                src: "/static/6a0e150561920f31614f12a2_Frank.webp",
                                                                 loading: "eager",
                                                                 "data-anim-parallax": "false",
                                                                 "data-gl-img": "false",
@@ -2089,7 +2089,7 @@ function Hero() {
                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("figure", {
                                                             className: "g_img_wrap u-cover-absolute",
                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                                src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a17707daa3f837f06cbdd26_TeachersworkingwirthStudents9-1.webp",
+                                                                src: "/static/6a17707daa3f837f06cbdd26_TeachersworkingwirthStudents9-1.webp",
                                                                 loading: "eager",
                                                                 "data-anim-parallax": "false",
                                                                 "data-gl-img": "false",
@@ -2602,7 +2602,7 @@ function Services() {
                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("figure", {
                                                                 className: "g_img_wrap u-cover-absolute",
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                                    src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a0dd46d936d6f4534c2d690__DSC4612%20(1)%201.webp",
+                                                                    src: "/static/6a0dd46d936d6f4534c2d690__DSC4612__1__1.webp",
                                                                     loading: "lazy",
                                                                     "data-anim-parallax": "false",
                                                                     "data-gl-img": "false",
@@ -2731,7 +2731,7 @@ function Services() {
                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("figure", {
                                                                 className: "g_img_wrap u-cover-absolute",
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                                    src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a0dd47c85badc6d613f1799_Screenshot%202026-05-19%20at%205.42.35%E2%80%AFPM%201.webp",
+                                                                    src: "/static/6a0dd47c85badc6d613f1799_Screenshot_2026-05-19_at_5.42.35_PM_1.webp",
                                                                     loading: "lazy",
                                                                     "data-anim-parallax": "false",
                                                                     "data-gl-img": "false",
@@ -2860,7 +2860,7 @@ function Services() {
                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("figure", {
                                                                 className: "g_img_wrap u-cover-absolute",
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                                    src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a0dd4a495a502dd49d8a8da_frame_48%202.webp",
+                                                                    src: "/static/6a0dd4a495a502dd49d8a8da_frame_48_2.webp",
                                                                     loading: "lazy",
                                                                     "data-anim-parallax": "false",
                                                                     "data-gl-img": "false",
@@ -2989,7 +2989,7 @@ function Services() {
                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("figure", {
                                                                 className: "g_img_wrap u-cover-absolute",
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                                    src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a0dd487eaa7c8abbf420f4d_February%2014%2C%202025%20at%204_41%E2%80%AFPM0198.webp",
+                                                                    src: "/static/6a0dd487eaa7c8abbf420f4d_February_14__2025_at_4_41_PM0198.webp",
                                                                     loading: "lazy",
                                                                     "data-anim-parallax": "false",
                                                                     "data-gl-img": "false",
@@ -3118,7 +3118,7 @@ function Services() {
                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("figure", {
                                                                 className: "g_img_wrap u-cover-absolute",
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                                    src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a0dd49ddcc7c10a6cc924ca_kerrrn._photo_realistic_.webp",
+                                                                    src: "/static/6a0dd49ddcc7c10a6cc924ca_kerrrn._photo_realistic_.webp",
                                                                     loading: "lazy",
                                                                     "data-anim-parallax": "false",
                                                                     "data-gl-img": "false",
@@ -3247,7 +3247,7 @@ function Services() {
                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("figure", {
                                                                 className: "g_img_wrap u-cover-absolute",
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                                    src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a0dd4acecf1217cc234c326__DSC4763%20(2)%201.webp",
+                                                                    src: "/static/6a0dd4acecf1217cc234c326__DSC4763__2__1.webp",
                                                                     loading: "lazy",
                                                                     "data-anim-parallax": "false",
                                                                     "data-gl-img": "false",
@@ -3376,7 +3376,7 @@ function Services() {
                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("figure", {
                                                                 className: "g_img_wrap u-cover-absolute",
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                                    src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a0dd4c423bb515d400fa1dc__MG_0004%201.webp",
+                                                                    src: "/static/6a0dd4c423bb515d400fa1dc__MG_0004_1.webp",
                                                                     loading: "lazy",
                                                                     "data-anim-parallax": "false",
                                                                     "data-gl-img": "false",
@@ -3505,7 +3505,7 @@ function Services() {
                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("figure", {
                                                                 className: "g_img_wrap u-cover-absolute",
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                                    src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a0dd4bbab35fb9300bd540f_February%2014%2C%202025%20at%204_41%E2%80%AFPM0192.webp",
+                                                                    src: "/static/6a0dd4bbab35fb9300bd540f_February_14__2025_at_4_41_PM0192.webp",
                                                                     loading: "lazy",
                                                                     "data-anim-parallax": "false",
                                                                     "data-gl-img": "false",
@@ -3634,7 +3634,7 @@ function Services() {
                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("figure", {
                                                                 className: "g_img_wrap u-cover-absolute",
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                                    src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a0dd4cb1b9bfda524a6d807_Mask%20group.webp",
+                                                                    src: "/static/6a0dd4cb1b9bfda524a6d807_Mask_group.webp",
                                                                     loading: "lazy",
                                                                     "data-anim-parallax": "false",
                                                                     "data-gl-img": "false",
@@ -3846,7 +3846,7 @@ function FeaturedProjects() {
                                                         className: "g_img_wrap",
                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                                             crossOrigin: "anonymous",
-                                                            src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a0de3e1c97f50c2085ff2a7_frankandmorris.webp",
+                                                            src: "/static/6a0de3e1c97f50c2085ff2a7_frankandmorris.webp",
                                                             loading: "eager",
                                                             "data-anim-parallax": "false",
                                                             "data-gl-img": "true",
@@ -3959,7 +3959,7 @@ function FeaturedProjects() {
                                                         className: "g_img_wrap",
                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                                             crossOrigin: "anonymous",
-                                                            src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a19b3deb01673d30cf19e5d_Mask%20group.webp",
+                                                            src: "/static/6a19b3deb01673d30cf19e5d_Mask_group.webp",
                                                             loading: "eager",
                                                             "data-anim-parallax": "false",
                                                             "data-gl-img": "true",
@@ -4072,7 +4072,7 @@ function FeaturedProjects() {
                                                         className: "g_img_wrap",
                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                                             crossOrigin: "anonymous",
-                                                            src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a1762922da16e223f6bdd3f_20251021_GritMoto-Cascade_192%20(1)%201.webp",
+                                                            src: "/static/6a1762922da16e223f6bdd3f_20251021_GritMoto-Cascade_192__1__1.webp",
                                                             loading: "eager",
                                                             "data-anim-parallax": "false",
                                                             "data-gl-img": "true",
@@ -4185,7 +4185,7 @@ function FeaturedProjects() {
                                                         className: "g_img_wrap",
                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                                             crossOrigin: "anonymous",
-                                                            src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a17707daa3f837f06cbdd26_TeachersworkingwirthStudents9-1.webp",
+                                                            src: "/static/6a17707daa3f837f06cbdd26_TeachersworkingwirthStudents9-1.webp",
                                                             loading: "eager",
                                                             "data-anim-parallax": "false",
                                                             "data-gl-img": "true",
@@ -4298,7 +4298,7 @@ function FeaturedProjects() {
                                                         className: "g_img_wrap",
                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                                             crossOrigin: "anonymous",
-                                                            src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a19b2f83d9fd98845cf4a9b_image%20851.webp",
+                                                            src: "/static/6a19b2f83d9fd98845cf4a9b_image_851.webp",
                                                             loading: "eager",
                                                             "data-anim-parallax": "false",
                                                             "data-gl-img": "true",
@@ -4473,7 +4473,7 @@ function ImageTrail() {
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("figure", {
                     className: "g_img_wrap u-cover-absolute u-pointer-off",
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                        src: "https://cdn.prod.website-files.com/697fef4d1b1e73b328ad49cd/6a18bee8e0c9073d8eca350d_DSCF0298.webp",
+                        src: "/static/6a18bee8e0c9073d8eca350d_DSCF0298.webp",
                         loading: "lazy",
                         "data-anim-parallax": "false",
                         "data-gl-img": "false",
@@ -4506,7 +4506,7 @@ function ImageTrail() {
                                         className: "g_img_wrap u-cover-absolute",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                             crossOrigin: "anonymous",
-                                            src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a18bc3488301fbc426d1f9a_DSCF0420.webp",
+                                            src: "/static/6a18bc3488301fbc426d1f9a_DSCF0420.webp",
                                             loading: "lazy",
                                             "data-anim-parallax": "false",
                                             "data-gl-img": "true",
@@ -4542,7 +4542,7 @@ function ImageTrail() {
                                         className: "g_img_wrap u-cover-absolute",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                             crossOrigin: "anonymous",
-                                            src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a18c07fa0aff33bf2bc9c7e_20251113_GritMoto-Knolls_129%20(1).webp",
+                                            src: "/static/6a18c07fa0aff33bf2bc9c7e_20251113_GritMoto-Knolls_129__1_.webp",
                                             loading: "lazy",
                                             "data-anim-parallax": "false",
                                             "data-gl-img": "true",
@@ -4578,7 +4578,7 @@ function ImageTrail() {
                                         className: "g_img_wrap u-cover-absolute",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                             crossOrigin: "anonymous",
-                                            src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a18c0d501bbf3759eef0362_20250521_UOT_BTS_173.webp",
+                                            src: "/static/6a18c0d501bbf3759eef0362_20250521_UOT_BTS_173.webp",
                                             loading: "lazy",
                                             "data-anim-parallax": "false",
                                             "data-gl-img": "true",
@@ -4614,7 +4614,7 @@ function ImageTrail() {
                                         className: "g_img_wrap u-cover-absolute",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                             crossOrigin: "anonymous",
-                                            src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a18c08bc59626423711c788_DSCF0174%20(1).webp",
+                                            src: "/static/6a18c08bc59626423711c788_DSCF0174__1_.webp",
                                             loading: "lazy",
                                             "data-anim-parallax": "false",
                                             "data-gl-img": "true",
@@ -4650,7 +4650,7 @@ function ImageTrail() {
                                         className: "g_img_wrap u-cover-absolute",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                             crossOrigin: "anonymous",
-                                            src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a18c0b9018ef702f35b2848_20251021_GritMoto-Cascade_003%20(1).webp",
+                                            src: "/static/6a18c0b9018ef702f35b2848_20251021_GritMoto-Cascade_003__1_.webp",
                                             loading: "lazy",
                                             "data-anim-parallax": "false",
                                             "data-gl-img": "true",
@@ -4686,7 +4686,7 @@ function ImageTrail() {
                                         className: "g_img_wrap u-cover-absolute",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                             crossOrigin: "anonymous",
-                                            src: "https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a18c0c9cb6467aa2027609d_20251113_GritMoto-Knolls_017%20(3).webp",
+                                            src: "/static/6a18c0c9cb6467aa2027609d_20251113_GritMoto-Knolls_017__3_.webp",
                                             loading: "lazy",
                                             "data-anim-parallax": "false",
                                             "data-gl-img": "true",
@@ -5132,7 +5132,7 @@ function Footer() {
                                         className: "footer_credit_phone_link w-inline-block",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                src: "https://cdn.prod.website-files.com/697fef4d1b1e73b328ad49cd/69a85deeeae0142fe477754b_cal.svg",
+                                                src: "/static/69a85deeeae0142fe477754b_cal.svg",
                                                 loading: "lazy",
                                                 alt: "",
                                                 className: "g_img cal"
@@ -5150,7 +5150,7 @@ function Footer() {
                                                     }, void 0, false, {
                                                         fileName: "[project]/repositories/Sam-2503.github.io/app/components/Footer.js",
                                                         lineNumber: 64,
-                                                        columnNumber: 393
+                                                        columnNumber: 341
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$repositories$2f$Sam$2d$2503$2e$github$2e$io$2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$9_react$2d$dom$40$19$2e$2$2e$7_react$40$19$2e$2$2e$7_$5f$react$40$19$2e$2$2e$7$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                         className: "footer_credit_phone_text is-abs",
@@ -5158,13 +5158,13 @@ function Footer() {
                                                     }, void 0, false, {
                                                         fileName: "[project]/repositories/Sam-2503.github.io/app/components/Footer.js",
                                                         lineNumber: 64,
-                                                        columnNumber: 465
+                                                        columnNumber: 413
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/repositories/Sam-2503.github.io/app/components/Footer.js",
                                                 lineNumber: 64,
-                                                columnNumber: 330
+                                                columnNumber: 278
                                             }, this)
                                         ]
                                     }, void 0, true, {

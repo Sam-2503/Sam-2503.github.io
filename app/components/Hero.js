@@ -10,7 +10,7 @@ export default function Hero() {
                                     <div className="hero_visual_collection w-dyn-list">
                                         <div role="list" className="hero_visual_list w-dyn-items">
                                             <div role="listitem" className="hero_visual_item w-dyn-item">
-                                                <figure className="g_img_wrap u-cover-absolute"><img src="https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a14daa71be796e1f813084f_DSC05060.webp" loading="eager" data-anim-parallax="false" data-gl-img="false" alt="" className="g_img" /></figure>
+                                                <figure className="g_img_wrap u-cover-absolute"><img src="/static/6a14daa71be796e1f813084f_DSC05060.webp" loading="eager" data-anim-parallax="false" data-gl-img="false" alt="" className="g_img" /></figure>
                                             </div>
                                         </div>
                                     </div>
@@ -28,7 +28,7 @@ export default function Hero() {
                                     <div className="hero_visual_collection w-dyn-list">
                                         <div role="list" className="hero_visual_list w-dyn-items">
                                             <div role="listitem" className="hero_visual_item w-dyn-item">
-                                                <figure className="g_img_wrap u-cover-absolute"><img src="https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a17c10acb7f9db7732761ed_UOT_Fall_2025_AdamClark_0739square.webp" loading="eager" data-anim-parallax="false" data-gl-img="false" alt=""
+                                                <figure className="g_img_wrap u-cover-absolute"><img src="/static/6a17c10acb7f9db7732761ed_UOT_Fall_2025_AdamClark_0739square.webp" loading="eager" data-anim-parallax="false" data-gl-img="false" alt=""
                                                         className="g_img" /></figure>
                                             </div>
                                         </div>
@@ -38,7 +38,7 @@ export default function Hero() {
                                     <div className="hero_visual_collection w-dyn-list">
                                         <div role="list" className="hero_visual_list w-dyn-items">
                                             <div role="listitem" className="hero_visual_item w-dyn-item">
-                                                <figure className="g_img_wrap u-cover-absolute"><img src="https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a0e150561920f31614f12a2_Frank.webp" loading="eager" data-anim-parallax="false" data-gl-img="false" alt="" className="g_img" /></figure>
+                                                <figure className="g_img_wrap u-cover-absolute"><img src="/static/6a0e150561920f31614f12a2_Frank.webp" loading="eager" data-anim-parallax="false" data-gl-img="false" alt="" className="g_img" /></figure>
                                             </div>
                                         </div>
                                     </div>
@@ -47,7 +47,7 @@ export default function Hero() {
                                     <div className="hero_visual_collection w-dyn-list">
                                         <div role="list" className="hero_visual_list w-dyn-items">
                                             <div role="listitem" className="hero_visual_item w-dyn-item">
-                                                <figure className="g_img_wrap u-cover-absolute"><img src="https://cdn.prod.website-files.com/6981462898770a0ad1949f11/6a17707daa3f837f06cbdd26_TeachersworkingwirthStudents9-1.webp" loading="eager" data-anim-parallax="false" data-gl-img="false" alt=""
+                                                <figure className="g_img_wrap u-cover-absolute"><img src="/static/6a17707daa3f837f06cbdd26_TeachersworkingwirthStudents9-1.webp" loading="eager" data-anim-parallax="false" data-gl-img="false" alt=""
                                                         className="g_img" /></figure>
                                             </div>
                                         </div>

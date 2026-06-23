@@ -350,7 +350,7 @@ export default function Navbar() {
             </div>
         </div>
         <div className="footer_bottom">
-            <div className="footer_credit_item"><a href="https://calendar.app.google/TADgw3kg9Xy4KQaC8" target="_blank" className="footer_credit_phone_link w-inline-block"><img src="https://cdn.prod.website-files.com/697fef4d1b1e73b328ad49cd/69a85deeeae0142fe477754b_cal.svg" loading="lazy" alt="" className="g_img cal"/><div className="footer_credit_phone_text_wrap u-overflow-clip"><div className="footer_credit_phone_text">Let’s chat. 801.673.8588</div><div className="footer_credit_phone_text is-abs">Schedule a Call</div></div></a></div>
+            <div className="footer_credit_item"><a href="https://calendar.app.google/TADgw3kg9Xy4KQaC8" target="_blank" className="footer_credit_phone_link w-inline-block"><img src="/static/69a85deeeae0142fe477754b_cal.svg" loading="lazy" alt="" className="g_img cal"/><div className="footer_credit_phone_text_wrap u-overflow-clip"><div className="footer_credit_phone_text">Let’s chat. 801.673.8588</div><div className="footer_credit_phone_text is-abs">Schedule a Call</div></div></a></div>
             <div
                 className="footer_nl">
                 <div>Subscribe for the latest.</div>
