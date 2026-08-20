@@ -13,7 +13,9 @@ export default function Hero() {
 					<div className="flex items-start gap-6 md:gap-10">
 						<h1 className="font-display uppercase tracking-tight text-ink leading-[0.85] text-[14vw] md:text-[7rem] lg:text-[8.5rem]">
 							<span className="block">Samprad&apos;s</span>
-							<span className="block">Port<span className="text-accent">folio</span></span>
+							<span className="block">
+								Port<span className="text-accent">folio</span>
+							</span>
 						</h1>
 						<a
 							href="/samprad_resume.pdf"

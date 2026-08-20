@@ -8,16 +8,16 @@ import Portfolio from "./components/Portfolio";
 import ContactFooter from "./components/ContactFooter";
 
 export default function Home() {
-  return (
-    <main className="flex flex-1 flex-col">
-      <Hero />
-      <TableOfContents />
-      <AboutMe />
-      <JobPosition />
-      <Institution />
-      <TechnicalSkills />
-      <Portfolio />
-      <ContactFooter />
-    </main>
-  );
+	return (
+		<main className="flex flex-1 flex-col">
+			<Hero />
+			<TableOfContents />
+			<AboutMe />
+			<JobPosition />
+			<Institution />
+			<TechnicalSkills />
+			<Portfolio />
+			<ContactFooter />
+		</main>
+	);
 }
