@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+	--color-cream: #e0e0c0;
+	--color-ink: #101010;
+	--color-accent: #c02020;
+}
+
+@theme inline {
+	--font-display: var(--font-display);
+	--font-body: var(--font-body);
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	background: var(--color-cream);
+	color: var(--color-ink);
+	font-family: var(--font-body);
+}
