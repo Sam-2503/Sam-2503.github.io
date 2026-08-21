@@ -47,7 +47,7 @@ export default function ContactFooter() {
 					</p>
 				</div>
 			</div>
-			<div className="relative h-72 md:h-96">
+			<div className="relative h-48 md:h-64">
 				<Image
 					src="/bg.svg"
 					alt="Dark abstract background"

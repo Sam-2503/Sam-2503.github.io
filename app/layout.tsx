@@ -14,8 +14,8 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-	title: "Dmitri Presenta Prokoftchl Razumikhin — Portfolio",
-	description: "Editorial brutalist portfolio",
+	title: "Samprad — Portfolio",
+	description: "Samprad's personal portfolio",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 const JOBS = [
 	{
 		company: "UpScale",
@@ -45,7 +43,7 @@ export default function JobPosition() {
 							transform: "rotate(180deg)",
 						}}
 					>
-						Job Posi<span className="text-accent">tions</span>
+						Exper<span className="text-accent">ience</span>
 					</p>
 				</div>
 				<div className="px-6 md:px-12 py-14 md:py-20">
@@ -75,15 +73,6 @@ export default function JobPosition() {
 											<li key={b}>• {b}</li>
 										))}
 									</ul>
-									<div className="relative mt-8 h-56 md:h-64">
-										<Image
-											src={job.image}
-											alt={job.imageAlt}
-											fill
-											sizes="(max-width: 1024px) 100vw, 50vw"
-											className="object-cover object-top grayscale contrast-125"
-										/>
-									</div>
 								</div>
 							</div>
 						))}

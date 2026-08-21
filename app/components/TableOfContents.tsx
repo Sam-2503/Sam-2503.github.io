@@ -21,7 +21,7 @@ export default function TableOfContents() {
 					</h2>
 					<div className="absolute bottom-0 left-0 w-56 md:w-72 h-80 md:h-96">
 						<Image
-							src="https://images.unsplash.com/photo-1531123897727-8f129e1688ce?q=80&w=800&auto=format&fit=crop"
+							src="/stars.jpg"
 							alt="Greyscale portrait"
 							fill
 							sizes="(max-width: 768px) 50vw, 288px"

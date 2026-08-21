@@ -2,25 +2,25 @@ import Image from "next/image";
 
 const PHOTOS = [
 	{
-		src: "https://images.unsplash.com/photo-1550439062-609e1531270e?q=80&w=800&auto=format&fit=crop",
+		src: "/finbuddy.png",
 		alt: "FinBuddy AI",
 		className: "aspect-[3/4]",
-		name: "FinBuddy AI",
+		name: "FinBuddy",
 		description:
 			"Real-time AI financial assistant with voice-based budgeting and expense tracking.",
-		href: "#",
+		href: "https://finbuddy-alpha.vercel.app/",
 	},
 	{
-		src: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=800&auto=format&fit=crop",
+		src: "/radyo.png",
 		alt: "Rad-Yo",
-		className: "aspect-square grayscale",
+		className: "aspect-square",
 		name: "Rad-Yo",
 		description:
 			"Retro-themed web radio platform with AI-generated song trivia.",
-		href: "#",
+		href: "https://rad-yo-seven.vercel.app",
 	},
 	{
-		src: "https://images.unsplash.com/photo-1516116216624-53e697fedbea?q=80&w=800&auto=format&fit=crop",
+		src: "/neurathon.png",
 		alt: "Neurathon",
 		className: "aspect-[4/5]",
 		name: "Neurathon",
@@ -28,9 +28,9 @@ const PHOTOS = [
 		href: "https://neurathon.mlclubnits.com",
 	},
 	{
-		src: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=800&auto=format&fit=crop",
+		src: "/merch.png",
 		alt: "ML Club Merch",
-		className: "aspect-[4/5] grayscale",
+		className: "aspect-[4/5]",
 		name: "ML Club Merch",
 		description: "Merch store for ML Club, NIT Silchar.",
 		href: "https://merch.mlclubnits.com",
@@ -60,7 +60,7 @@ export default function Portfolio() {
 								alt={p.alt}
 								fill
 								sizes="(max-width: 768px) 50vw, 33vw"
-								className={`object-cover transition-transform duration-500 group-hover:scale-[1.02] ${p.className.includes("grayscale") ? "grayscale" : ""}`}
+								className="object-cover grayscale group-hover:grayscale-0 transition-all duration-500 group-hover:scale-[1.02]"
 							/>
 							<div className="absolute inset-0 bg-linear-to-t from-ink via-ink/60 to-transparent opacity-0 transition-opacity duration-500 group-hover:opacity-100" />
 							<div className="absolute inset-x-0 bottom-0 translate-y-4 p-4 md:p-5 opacity-0 transition-all duration-500 group-hover:translate-y-0 group-hover:opacity-100">
