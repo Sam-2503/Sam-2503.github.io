@@ -16,7 +16,7 @@ export default function Hero() {
 						</span>
 					</h1>
 					<a
-						href="/samprad_resume.pdf"
+						href="https://drive.google.com/file/d/14B7ODJzh44MSLtFpRvwIcYqsrd2WGETA/view?usp=share_link"
 						download
 						className="font-display text-accent text-xl md:text-2xl tracking-widest mt-3 whitespace-nowrap cursor-pointer transition-colors hover:text-ink"
 					>
